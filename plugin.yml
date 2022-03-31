@@ -1,0 +1,7 @@
+---
+name: MovementDebugger
+version: 1.0.0
+main: dktapps\MovementDebugger\Main
+api: 4.1.0
+src-namespace-prefix: dktapps\MovementDebugger
+...
